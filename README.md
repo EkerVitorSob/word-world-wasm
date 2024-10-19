@@ -52,7 +52,7 @@ To set up **Word World** locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/eker-vitor-sob/word-world.git
+   git clone https://github.com/eker-vitor-sob/word-world-wasm.git
    ```
 
 2. Navigate into the project directory:
@@ -113,4 +113,4 @@ For any questions or suggestions, feel free to reach out to us:
 
 - **Email**: info@ekervitorsob.com
 - **Website**: [www.ekervitorsob.com](#)
-- **GitHub**: [GitHub Repo](https://github.com/eker-vitor-sob/word-world)
+- **GitHub**: [GitHub Repo](https://github.com/eker-vitor-sob/word-world-wasm)
